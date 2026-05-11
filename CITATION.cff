@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this curated list, please cite it using the metadata below."
+title: "Awesome AI Benchmarks & Evaluation"
+abstract: "A curated list of benchmarks, evaluation frameworks, datasets, leaderboards, methodologies, tools, and research resources related to the evaluation and measurement of artificial intelligence systems and machine learning models."
+authors:
+  - family-names: "Himpfen"
+    given-names: "Brandon"
+license: "CC0-1.0"
+repository-code: "https://github.com/brandonhimpfen/awesome-ai-benchmarks-evaluation"
+keywords:
+  - AI benchmarks
+  - AI evaluation
+  - machine learning evaluation
+  - model benchmarking
+  - LLM evaluation
+  - artificial intelligence
+  - datasets
+  - leaderboards
+  - evaluation frameworks
+  - awesome list
