@@ -70,6 +70,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [OpenAI Evals](https://github.com/openai/evals) – Evaluation framework for custom metrics and tasks.
 - [TruLens](https://github.com/truera/trulens) – Observability and feedback evaluation for LLM apps and RAG.
 - [Arize Phoenix](https://github.com/Arize-ai/phoenix) – Open-source toolkit for LLM/RAG evals and trace analysis.
+- - [RagCiteCheck](https://github.com/ppon1086/ragcitecheck) – Lightweight CLI for evaluating citation and evidence stability in RAG systems across runs and retrieval configurations.
 - [LightEval](https://github.com/hazyresearch/lighteval) – Fast LLM evaluation pipeline.
 - [Evalchemy](https://github.com/zphang/evalchemy) – Lightweight framework for running LLM benchmarks.
 - [Weights & Biases Evaluation](https://wandb.ai) – Model comparison and metric visualization tools.
