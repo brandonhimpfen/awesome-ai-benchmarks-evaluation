@@ -30,6 +30,8 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [BIG-Bench](https://github.com/google/BIG-bench) – Broad set of challenging tasks for evaluating model generalization.
 - [MT-Bench](https://github.com/lm-sys/FastChat) – Multi-turn chat interaction benchmark.
 - [AlpacaEval](https://github.com/tatsu-lab/alpaca_eval) – Automatic evaluation of instruction-following models.
+- [ProgramBench](https://github.com/facebookresearch/ProgramBench) – Evaluates whether AI agents can rebuild complete programs from scratch given only a compiled binary and its documentation.
+- [Arena Leaderboard](https://arena.ai/leaderboard/) – Crowdsourced head-to-head rankings of frontier models across text, image, and vision tasks.
 
 ## Reasoning & Math
 
@@ -64,6 +66,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Red Team Prompt Datasets](https://github.com/topics/jailbreak-prompts) – Collections of prompts to stress-test model alignment.
 - [RobustBench](https://github.com/RobustBench/robustbench) – Leaderboard of robust classification models.
 - [AdversarialNLI](https://github.com/facebookresearch/anli) – Dataset for robustness in natural language inference.
+- [BullshitBench](https://github.com/petergpt/bullshit-benchmark) – Tests whether models detect and push back on nonsensical or invalid prompts instead of confidently answering them.
 
 ## Evaluation Frameworks
 
@@ -91,6 +94,8 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Stanford CS25 Notes](https://web.stanford.edu/class/cs25/) – Covers benchmarking and model evaluation basics.
 - [MLPerf](https://mlcommons.org/en/training-normal/) – Industry-standard ML performance benchmarking guidelines.
 - [DeepMind Papers on Evaluation](https://deepmind.google/research) – Research on model testing and evaluation.
+- [Ahead of AI](https://magazine.sebastianraschka.com/) – Sebastian Raschka's newsletter covering ML/AI research, with frequent deep dives on LLM evaluation and training.
+- [LLM Architecture Gallery](https://sebastianraschka.com/llm-architecture-gallery/) – Interactive gallery comparing modern LLM architectures, with fact sheets and links back to "The Big LLM Architecture Comparison".
 
 ## Related Awesome Lists
 
