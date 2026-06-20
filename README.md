@@ -72,6 +72,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Arize Phoenix](https://github.com/Arize-ai/phoenix) – Open-source toolkit for LLM/RAG evals and trace analysis.
 - [LightEval](https://github.com/hazyresearch/lighteval) – Fast LLM evaluation pipeline.
 - [Evalchemy](https://github.com/zphang/evalchemy) – Lightweight framework for running LLM benchmarks.
+- [ImageBench](https://imagebench.ai) – Public benchmark site for text-to-image models, publishing side-by-side prompt results, comparison pages, and evaluation methodology.
 - [Weights & Biases Evaluation](https://wandb.ai) – Model comparison and metric visualization tools.
 
 ## Datasets
