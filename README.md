@@ -74,6 +74,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [LightEval](https://github.com/hazyresearch/lighteval) – Fast LLM evaluation pipeline.
 - [Evalchemy](https://github.com/zphang/evalchemy) – Lightweight framework for running LLM benchmarks.
 - [Weights & Biases Evaluation](https://wandb.ai) – Model comparison and metric visualization tools.
+- [doceval](https://github.com/dave8172/doceval) – Eval harness for LLM document-extraction pipelines: field-level accuracy, failure-mode taxonomy, and cost tracking.
 
 ## Datasets
 
