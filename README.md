@@ -65,6 +65,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Red Team Prompt Datasets](https://github.com/topics/jailbreak-prompts) – Collections of prompts to stress-test model alignment.
 - [RobustBench](https://github.com/RobustBench/robustbench) – Leaderboard of robust classification models.
 - [AdversarialNLI](https://github.com/facebookresearch/anli) – Dataset for robustness in natural language inference.
+- [Flight Recorder](https://github.com/Aarav500/flight-recorder) – Benchmark for online reward-hacking detectors; measures whether training-time monitoring signals give early warning before quality degrades.
 
 ## Evaluation Frameworks
 
