@@ -65,6 +65,8 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Red Team Prompt Datasets](https://github.com/topics/jailbreak-prompts) – Collections of prompts to stress-test model alignment.
 - [RobustBench](https://github.com/RobustBench/robustbench) – Leaderboard of robust classification models.
 - [AdversarialNLI](https://github.com/facebookresearch/anli) – Dataset for robustness in natural language inference.
+- [RHOB (Reward Hacking Onset Benchmark)](https://github.com/Aarav500/rhob) – Matched-proxy environment benchmark across 14 reward-hacking mechanisms with a 30-detector suite and cross-family transfer analysis.
+- [Flight Recorder](https://github.com/Aarav500/flight-recorder) – Benchmark for online reward-hacking detectors; measures whether training-time monitoring signals give early warning before quality degrades.
 
 ## Evaluation Frameworks
 
