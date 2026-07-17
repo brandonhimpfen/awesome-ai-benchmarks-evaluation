@@ -73,6 +73,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Arize Phoenix](https://github.com/Arize-ai/phoenix) – Open-source toolkit for LLM/RAG evals and trace analysis.
 - [LightEval](https://github.com/hazyresearch/lighteval) – Fast LLM evaluation pipeline.
 - [Evalchemy](https://github.com/zphang/evalchemy) – Lightweight framework for running LLM benchmarks.
+- [math-eval](https://github.com/Geraldxm/math-eval) – Resumable, replayable math reasoning eval with generation/scoring decoupling and unified Math-Verify pipeline.
 - [Weights & Biases Evaluation](https://wandb.ai) – Model comparison and metric visualization tools.
 
 ## Datasets
