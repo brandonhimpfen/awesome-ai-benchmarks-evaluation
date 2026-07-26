@@ -1,9 +1,9 @@
-# Awesome AI Benchmarks & Evaluation [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/awesomelistsio/awesome)
+# Awesome AI Benchmarks & Evaluation [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/brandonhimpfen/awesome-lists)
 
-[![DOI](https://zenodo.org/badge/1106333609.svg)](https://doi.org/10.5281/zenodo.19673228)  
-[![GitHub Sponsor](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/brandonhimpfen) &nbsp; 
-[![Buy Me a Coffee](https://srv-cdn.himpfen.io/badges/buymeacoffee/buymeacoffee-flat.svg)](https://buymeacoffee.com/brandonhimpfen) &nbsp; 
-[![Ko-Fi](https://srv-cdn.himpfen.io/badges/kofi/kofi-flat.svg)](https://ko-fi.com/brandonhimpfen) &nbsp; 
+[![DOI](https://zenodo.org/badge/1106333609.svg)](https://doi.org/10.5281/zenodo.19673228) 
+[![GitHub Sponsor](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/brandonhimpfen) 
+[![Buy Me a Coffee](https://srv-cdn.himpfen.io/badges/buymeacoffee/buymeacoffee-flat.svg)](https://buymeacoffee.com/brandonhimpfen) 
+[![Ko-Fi](https://srv-cdn.himpfen.io/badges/kofi/kofi-flat.svg)](https://ko-fi.com/brandonhimpfen) 
 [![PayPal](https://srv-cdn.himpfen.io/badges/paypal/paypal-flat.svg)](https://paypal.me/brandonhimpfen)
 
 > A curated list of evaluation tools, benchmark datasets, leaderboards, frameworks, and resources for assessing model performance across reasoning, safety, robustness, multimodality, RAG, LLMs, and traditional machine learning tasks.
@@ -74,7 +74,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [LightEval](https://github.com/hazyresearch/lighteval) – Fast LLM evaluation pipeline.
 - [Evalchemy](https://github.com/zphang/evalchemy) – Lightweight framework for running LLM benchmarks.
 - [Weights & Biases Evaluation](https://wandb.ai) – Model comparison and metric visualization tools.
-- [ClawBench](https://github.com/TIGER-AI-Lab/ClawBench) - Framework for evaluating AI web agents on 283 real-world online tasks across two suites, with isolated browser runs and five-layer execution traces.
+- [ClawBench](https://github.com/TIGER-AI-Lab/ClawBench) - Open framework for benchmarking AI web agents on real-world web tasks.
 
 ## Datasets
 
