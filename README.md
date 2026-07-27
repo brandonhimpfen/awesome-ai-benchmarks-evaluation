@@ -74,6 +74,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [LightEval](https://github.com/hazyresearch/lighteval) – Fast LLM evaluation pipeline.
 - [Evalchemy](https://github.com/zphang/evalchemy) – Lightweight framework for running LLM benchmarks.
 - [Weights & Biases Evaluation](https://wandb.ai) – Model comparison and metric visualization tools.
+- [StructEval](https://github.com/TIGER-AI-Lab/StructEval) – Benchmark and evaluation framework for structured-output generation and cross-format conversion, with syntax, structural, and visual checks across text and renderable formats.
 - [ClawBench](https://github.com/TIGER-AI-Lab/ClawBench) - Open framework for benchmarking AI web agents on real-world web tasks.
 
 ## Datasets
