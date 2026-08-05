@@ -76,6 +76,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Weights & Biases Evaluation](https://wandb.ai) – Model comparison and metric visualization tools.
 - [StructEval](https://github.com/TIGER-AI-Lab/StructEval) – Benchmark and evaluation framework for structured-output generation across multiple formats.
 - [ClawBench](https://github.com/TIGER-AI-Lab/ClawBench) - Open framework for benchmarking AI web agents on real-world web tasks.
+- [BenchGen](https://benchgen.com) - Platform for creating benchmarks, evaluating models, fine-tuning, and re-evaluating.
 
 ## Datasets
 
