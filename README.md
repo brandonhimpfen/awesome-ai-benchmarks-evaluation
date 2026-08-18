@@ -65,6 +65,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Red Team Prompt Datasets](https://github.com/topics/jailbreak-prompts) – Collections of prompts to stress-test model alignment.
 - [RobustBench](https://github.com/RobustBench/robustbench) – Leaderboard of robust classification models.
 - [AdversarialNLI](https://github.com/facebookresearch/anli) – Dataset for robustness in natural language inference.
+- [BPL-v1.0](https://github.com/clayseal/bpl-benchmark) – Composite business-policy benchmark for LLM tool-using agents (frozen Core-12 / Hard-24; V / P / U).
 
 ## Evaluation Frameworks
 
