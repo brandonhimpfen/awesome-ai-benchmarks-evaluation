@@ -48,6 +48,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [LAION Benchmarks](https://laion.ai/blog/) – Evaluation datasets for multimodal embeddings and retrieval.
 - [Video Question Answering Benchmarks](https://github.com/topics/video-question-answering) – For video–text reasoning.
 - [DocuBench](https://github.com/DocuPipe/DocuBench) – Document data extraction benchmark: 50 hard real-world documents, hand-verified labels, and an open scorer.
+- [PaperEdits Agentic Video Benchmark](https://paperedits.com/benchmarking/gemini-agentic-video-understanding-benchmark) – Matched Gemini 3.7 Flash comparison of agentic and static video inspection, with public protocol, outputs, scoring, latency, and cost results.
   
 ## RAG Benchmarks
 
