@@ -97,11 +97,11 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 
 ## Related Awesome Lists
 
-- [Awesome AI](https://github.com/awesomelistsio/awesome-ai)
-- [Awesome AI Safety & Alignment](https://github.com/awesomelistsio/awesome-ai-safety-alignment)
-- [Awesome AI Security](https://github.com/awesomelistsio/awesome-ai-security)
-- [Awesome AI Research Tools](https://github.com/awesomelistsio/awesome-ai-research-tools)
-- [Awesome Machine Learning](https://github.com/awesomelistsio/awesome-machine-learning)
+- [Awesome AI](https://github.com/brandonhimpfen/awesome-ai)
+- [Awesome AI Safety & Alignment](https://github.com/brandonhimpfen/awesome-ai-safety-alignment)
+- [Awesome AI Security](https://github.com/brandonhimpfen/awesome-ai-security)
+- [Awesome AI Research Tools](https://github.com/brandonhimpfen/awesome-ai-research-tools)
+- [Awesome Machine Learning](https://github.com/brandonhimpfen/awesome-machine-learning)
 
 ## Contribute
 
