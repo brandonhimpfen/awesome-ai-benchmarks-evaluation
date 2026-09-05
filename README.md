@@ -44,6 +44,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [MMBench](https://github.com/open-mmlab/mmbench) – Large benchmark for vision–language reasoning.
 - [COCO Captions & VQA](https://visualqa.org/) – Standard dataset for VQA tasks.
 - [Flickr30k](https://www.kaggle.com/datasets) – Image–text benchmark for captioning and retrieval.
+- [ImageBench](https://github.com/mazinb/imagebench) – Text-to-image benchmark with 50 prompts testing 12 capabilities including hands, text rendering, counting, spatial reasoning, and physics.
 - [ImageNet](https://image-net.org/) – Core image classification benchmark still used for comparison.
 - [LAION Benchmarks](https://laion.ai/blog/) – Evaluation datasets for multimodal embeddings and retrieval.
 - [Video Question Answering Benchmarks](https://github.com/topics/video-question-answering) – For video–text reasoning.
