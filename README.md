@@ -31,6 +31,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [LM Evaluation Harness](https://github.com/EleutherAI/lm-evaluation-harness) – Standardized benchmarking suite for language models.
 - [OpenLLM Leaderboard (HuggingFace)](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard) – Public leaderboard for open-source LLM performance.
 - [BIG-Bench](https://github.com/google/BIG-bench) – Broad set of challenging tasks for evaluating model generalization.
+- [CorpBench](https://github.com/RevensiAI/CorpBench) – Evaluates AI agents on 100 deterministic business workflows across finance, marketing, operations, RevOps, and sales.
 - [MT-Bench](https://github.com/lm-sys/FastChat) – Multi-turn chat interaction benchmark.
 - [AlpacaEval](https://github.com/tatsu-lab/alpaca_eval) – Automatic evaluation of instruction-following models.
 
