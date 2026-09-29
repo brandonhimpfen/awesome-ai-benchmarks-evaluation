@@ -41,6 +41,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [AIME Bench](https://github.com/derivationlog/AIME-2024) – Benchmark based on American Invitational Mathematics Examination questions.
 - [ARC (Abstraction & Reasoning Corpus)](https://github.com/fchollet/ARC) – Tests generalization and abstraction capabilities.
 - [AGIEval](https://github.com/ruixiangcui/AGIEval) – Benchmarks for human-style exams and reasoning.
+- [Nonobench](https://www.nonobench.com) – Open-source benchmark of how well LLMs solve nonogram puzzles, from 5x5 to 20x20.
 
 ## Multimodal Benchmarks
 
