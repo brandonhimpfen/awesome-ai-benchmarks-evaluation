@@ -33,6 +33,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [BIG-Bench](https://github.com/google/BIG-bench) – Broad set of challenging tasks for evaluating model generalization.
 - [MT-Bench](https://github.com/lm-sys/FastChat) – Multi-turn chat interaction benchmark.
 - [AlpacaEval](https://github.com/tatsu-lab/alpaca_eval) – Automatic evaluation of instruction-following models.
+- [BKP-500](https://github.com/sthanika-ai/Bharat-Knowledge-Probe-Benchmark) – Benchmark of 552 questions testing India-specific conventions (lakh/crore arithmetic, state land units, crop calendars, fiscal year, government schemes), graded deterministically. Released by Sthānika AI.
 
 ## Reasoning & Math
 
