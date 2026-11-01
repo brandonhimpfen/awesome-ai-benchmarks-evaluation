@@ -99,6 +99,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [Stanford CS25 Notes](https://web.stanford.edu/class/cs25/) – Covers benchmarking and model evaluation basics.
 - [MLPerf](https://mlcommons.org/en/training-normal/) – Industry-standard ML performance benchmarking guidelines.
 - [DeepMind Papers on Evaluation](https://deepmind.google/research) – Research on model testing and evaluation.
+- [Measured Local LLM Benchmarks on Apple M4 Pro](https://agentinfraguide.com/benchmarks) – Auditable Ollama runs: decode throughput, process RSS, and task-check outcomes on one Mac; per-run records available.
 
 ## Related Awesome Lists
 
