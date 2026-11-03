@@ -34,6 +34,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [MT-Bench](https://github.com/lm-sys/FastChat) – Multi-turn chat interaction benchmark.
 - [AlpacaEval](https://github.com/tatsu-lab/alpaca_eval) – Automatic evaluation of instruction-following models.
 - [BKP-500](https://github.com/sthanika-ai/Bharat-Knowledge-Probe-Benchmark) – Benchmark of 552 questions testing India-specific conventions (lakh/crore arithmetic, state land units, crop calendars, fiscal year, government schemes), graded deterministically. Released by Sthānika AI.
+- [LifeSci Diamond](https://github.com/arcainc/lifesci-diamond) – Regulatory affairs deliverables for drugs, biologics and medical devices, graded against task-specific rubrics by an LLM jury.
 
 ## Reasoning & Math
 
