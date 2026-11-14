@@ -30,7 +30,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [HELM](https://crfm.stanford.edu/helm/latest/) – Holistic evaluation of LLMs across dozens of tasks and domains.
 - [LM Evaluation Harness](https://github.com/EleutherAI/lm-evaluation-harness) – Standardized benchmarking suite for language models.
 - [OpenLLM Leaderboard (HuggingFace)](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard) – Public leaderboard for open-source LLM performance.
-- [AIHOT Model Leaderboard](https://aihot.news/leaderboard) – Chinese-language ranking of language models using published evaluation results, with task breakdowns and linked sources.
+- [AIHOT Model Leaderboard](https://aihot.news/leaderboard) — Chinese-language ranking of language models using published evaluation results, with task breakdowns and linked sources.
 - [BIG-Bench](https://github.com/google/BIG-bench) – Broad set of challenging tasks for evaluating model generalization.
 - [MT-Bench](https://github.com/lm-sys/FastChat) – Multi-turn chat interaction benchmark.
 - [AlpacaEval](https://github.com/tatsu-lab/alpaca_eval) – Automatic evaluation of instruction-following models.
